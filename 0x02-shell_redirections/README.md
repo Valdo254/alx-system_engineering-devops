@@ -1,1 +1,3 @@
-Task 0	A script that prints Hello,world!
+| Task	|	Function	|
+| :-----|	---------------:|
+| Task 0|	A script that prints Hello world	|
