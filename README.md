@@ -1,1 +1,2 @@
-Task 0-Where am I?
+205 0x00. Shell, basics
+207 0x01. Shell, permissions
